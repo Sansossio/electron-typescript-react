@@ -13,3 +13,6 @@ And then, start electron
 ```env
 ELECTRON_DISABLE_SECURITY_WARNINGS=1 // Disable security electron warnings (chrome dev console)
 ```
+
+## Screenshots
+![Main window](./screenshots/example.png)
