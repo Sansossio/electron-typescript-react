@@ -1,0 +1,3 @@
+# Electron + typescript
+
+Basic boilerplate
