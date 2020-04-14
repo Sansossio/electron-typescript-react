@@ -3,7 +3,7 @@ import { format } from 'url'
 import { join } from 'path'
 
 export function baseUrl () {
-  if (!isDev) {
+  if (isDev) {
     return 'http://localhost:3000'
   }
   return format({
