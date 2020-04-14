@@ -7,9 +7,10 @@
     "experimentalDecorators": true,
     "target": "es2017",
     "sourceMap": true,
-    "outDir": "./app",
+    "outDir": "./build",
     "baseUrl": "./",
+    "jsx": "react",
     "incremental": true
   },
-  "exclude": ["node_modules", "dist", "react"]
+  "exclude": ["node_modules", "dist"]
 }
