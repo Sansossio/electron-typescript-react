@@ -9,7 +9,7 @@
     "build:tsc": "tsc",
     "build:electron": "rm -Rf app && npm run build:tsc && electron-builder",
     "build:react": "rm -Rf build && webpack --mode production",
-    "start:electron": "electron app/index.js",
+    "start:electron": "electron src/main.js",
     "start:react": "webpack-dev-server  --mode development --inline --hot",
     "lint": "standard",
     "lint:fix": "standard --fix"
