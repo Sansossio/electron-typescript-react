@@ -9,6 +9,7 @@
     "sourceMap": true,
     "outDir": "./app",
     "baseUrl": "./",
+    "jsx": "react",
     "incremental": true
   },
   "exclude": ["node_modules", "dist", "react"]
