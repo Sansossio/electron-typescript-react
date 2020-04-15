@@ -1,8 +1,10 @@
 # Electron + typescript + react
-
 Basic boilerplate
 
 ## Start
+```npm run start```
+
+### Manual
 First we need to start react
 ```npm run start:react```
 
