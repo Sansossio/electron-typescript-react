@@ -4,7 +4,7 @@ Basic boilerplate
 ## Start
 ```npm run start```
 
-### Manual
+## Manual Start
 First we need to start react
 ```npm run start:react```
 
