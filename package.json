@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "electron-is-dev": "^1.2.0",
+    "electron-better-ipc": "^1.0.0",
     "dotenv": "^8.2.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
@@ -44,7 +45,6 @@
     "cross-env": "^7.0.2",
     "css-loader": "^3.5.2",
     "electron": "^8.2.1",
-    "electron-better-ipc": "^1.0.0",
     "electron-builder": "^22.4.1",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^4.2.0",
