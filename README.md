@@ -1,5 +1,5 @@
 # Electron + typescript + react
-Basic boilerplate
+Simple boilerplate
 
 ## Start
 ```npm run start```
